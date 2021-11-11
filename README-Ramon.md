@@ -16,3 +16,9 @@ Una vez el archivo esté en la lista, le pondremos un comentario `git commit -m 
 
 Y, para confirmar que está realizado correctamente, iremos al repositorio de Github, y entramos en nuesta rama y observamos como se ha creado correctamente el docuemnto.
 ![](https://i.imgur.com/ZwmiTGi.png?1)
+
+
+
+
+https://user-images.githubusercontent.com/91556453/141330231-53ca21d5-f83d-4e54-ab9c-052ce428190b.mp4
+
