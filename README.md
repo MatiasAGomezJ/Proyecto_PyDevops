@@ -32,3 +32,9 @@ git push -u origin nombredelarama
 ![](https://i.imgur.com/tVguaHK.png)
 
 > ***Para este trabajo deberemos de hacer mínimo 5 commits, y además el video que muestra el proceso de creación de las ramas***
+
+
+
+https://user-images.githubusercontent.com/91556645/141486202-b04cbf26-fbf4-4f32-a667-83e6d6916ae5.mp4
+
+
