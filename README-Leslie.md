@@ -41,7 +41,9 @@ En esta tarea vamos a simular con mis compañeros que desarrollamos un mismo pro
 
 ![](./fotos/6.png)
 
-
+---
+# Video: 
+Debido a su tamaño, el video está en la carpeta de fotos, con el nombre ***elvideo.mov*** 
 
 ---
 # FIN TAREA 5
