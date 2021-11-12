@@ -29,8 +29,6 @@ git push -u origin nombredelarama
 ```
 ![](https://i.imgur.com/QRJmUDC.png)
 
-![](https://i.imgur.com/gKkEgR3.png)
-
 ![](https://i.imgur.com/tVguaHK.png)
 
 > ***Para este trabajo deberemos de hacer mínimo 5 commits, y además el video que muestra el proceso de creación de las ramas***
