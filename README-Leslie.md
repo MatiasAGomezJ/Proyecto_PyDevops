@@ -43,7 +43,7 @@ En esta tarea vamos a simular con mis compañeros que desarrollamos un mismo pro
 
 ---
 # Video: 
-Debido a su tamaño, el video está en la carpeta de fotos, con el nombre ***elvideo.mov*** 
+Debido a su tamaño, el video está en la carpeta de fotos, con el nombre ***video.mov*** 
 
 ---
 # FIN TAREA 5
