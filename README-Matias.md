@@ -21,7 +21,27 @@ $ git push -u origin Matias-ramit
 
 Y ya tendremos el archivo subido al repositorio
 
-
-
 https://user-images.githubusercontent.com/91556480/141879993-30b0a155-7087-4af7-a016-93834cf503f3.mp4
+
+## 2. Merge de las ramas
+Para ello tenemos que ir a la rama principal, en este caso la main:
+```b
+$ git checkout main
+```
+![](https://i.imgur.com/Qx3oxmr.png)
+
+Luego usamos el siguiente comando para decidir que rama queremos mezclar on la main.
+```b
+$ git merge JuanC-ramita
+```
+![](https://i.imgur.com/zXiMv8J.png)
+
+En este caso sale un conflicto ya que el se han hecho cosas diferentes con el mismo archivo, si hacemos un status podemos ver que simplemente haciendo un `add` podemos arreglar el problema.
+![](https://i.imgur.com/mqALJSS.png)
+
+Y ya tendremos la rama mezclada con la principal
+
+https://user-images.githubusercontent.com/91556480/141891574-54be07a4-4106-46b6-a3c2-2f5e7ca91306.mp4
+
+
 
